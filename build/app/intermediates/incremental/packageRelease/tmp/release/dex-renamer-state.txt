@@ -1,0 +1,4 @@
+#Tue Feb 15 16:19:49 EAT 2022
+base.0=/Users/fintechkenya/AndroidStudioProjects/CDH-DEVELOPMENT/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

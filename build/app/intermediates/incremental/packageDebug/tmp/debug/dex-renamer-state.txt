@@ -1,0 +1,4 @@
+#Tue Feb 01 16:40:35 EAT 2022
+base.0=/Users/fintechkenya/AndroidStudioProjects/CDH-DEVELOPMENT/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
